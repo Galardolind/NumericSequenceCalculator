@@ -1,0 +1,45 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<div id="bodyContainer" ng-app="NscApp">
+    <section id="content">
+        <div class="container" ng-controller="NscCtrl">
+            <div class="row">
+                <h1 class="wrap-long">
+                    Welcome !
+                </h1>
+                <p class="lead">
+                    To compute a numerical sequence, please enter a number in the field below, then
+                    press the Submit button (or Enter). The results are displayed under the input field.<br />
+                </p>
+                <form name="myForm" ng-submit="getSequences()">
+                    <label>
+                        Number:
+                        <input type="number" name="input" ng-model="number" min="0" max="2000000000" numericOnly>
+                        <input class="btn btn-success" type="submit" id="submit" value="Submit" />
+                    </label>
+                    <div role="alert">
+                        <span class="lead" ng-show="myForm.input.$error.number">
+                            Not valid number ! Please use only numbers.
+                        </span>
+                    </div>
+                </form>
+                <br />
+                <div class="row" ng-repeat="(sequenceName,sequenceValues) in sequences">
+                    <strong popover-trigger="mouseenter" uib-popover="{{types[sequenceName]}}"> The {{sequenceName}} numerical sequence is : </strong>
+                    <div class="wrap-long">
+                        {{sequenceValues}}
+                    </div>
+                    <br />
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
+@section scripts {
+    @Scripts.Render("~/Scripts/angular.js")
+    @Scripts.Render("~/Scripts/angular-animate.js")
+    @Scripts.Render("~/Scripts/angular-ui/ui-bootstrap-tpls.js")
+    @Scripts.Render("~/Scripts/underscore.js")
+    @Scripts.Render("~/Scripts/nsc/nsc-controller.js")
+}
