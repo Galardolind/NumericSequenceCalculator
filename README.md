@@ -6,10 +6,10 @@ Web application to compute numeric sequences
 To simplify the process, I have upload the whole visual studio project to the gitHub repository.
 
 1. Download the project (clone via gitHub) or direct download [link](https://github.com/Galardolind/NumericSequenceCalculator/archive/master.zip)
-2. 
-  a. (optional)Unzip
-  b. Open Visual Studio (I use Visual Studio Community 2015 v 14.0)
-  c. Click on 'Open project' then choose the 'NumericSequenceCalculator.sln' file
+2. Proceed as following
+  1. (optional)Unzip
+  2. Open Visual Studio (I use Visual Studio Community 2015 v 14.0)
+  3. Click on 'Open project' then choose the 'NumericSequenceCalculator.sln' file
 3. Click on F5 (by default) to run the application
 4. The application is ready to be used
 
