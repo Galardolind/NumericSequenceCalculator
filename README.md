@@ -1,9 +1,14 @@
 # NumericSequenceCalculator
+
 Web application to compute numeric sequences
+
+##Technologies
+
+C#, .Net, MVC, REST API, AngularJS, Bootstrap, Selenium.
 
 ##How to run
 
-To simplify the process, I have upload the whole visual studio project to the gitHub repository.
+To simplify the process, I have upload the whole visual studio project to the gitHub repository.(The process to deploy is explained on UI Test part)
 
 1. Download the project (clone via gitHub) or direct download [link](https://github.com/Galardolind/NumericSequenceCalculator/archive/master.zip)
 2. Proceed as following
@@ -13,10 +18,14 @@ To simplify the process, I have upload the whole visual studio project to the gi
 3. Click on F5 (by default) to run the application
 4. The application is ready to be used
 
-##Run the tests
+##UI tests  && Unit Tests
 
-Simply press Ctrl+R then A, to run the tests (should be 36 valid tests).
+To Run the UI tests, you need to deploy the application. To do the UI tests I have used the IIS and Selenium.
 
-##UI tests  
+1. Open the project
+2. Click on Build (The top menu) → Publish NumericSequenceCalculator
+3. Do the configuration to make it work with your own IIS (If you are not familiar with it follow [this tutorial](https://msdn.microsoft.com/en-us/library/dd465337%28v=vs.110%29)
+4. Once your web server is ready to work you just need to run All the test ( Ctrl+R, A )
+ 
 
-To create UI tests, the Enterprise version of Visual Community is needed... the version cost about 6.000$...so not yet...
+
