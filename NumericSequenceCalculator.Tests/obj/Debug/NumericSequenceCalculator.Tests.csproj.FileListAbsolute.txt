@@ -41,3 +41,15 @@ D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests
 D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\obj\Debug\NumericSequenceCalculator.Tests.csprojResolveAssemblyReference.cache
 D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\obj\Debug\NumericSequenceCalculator.Tests.dll
 D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\obj\Debug\NumericSequenceCalculator.Tests.pdb
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\ThoughtWorks.Selenium.Core.dll
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\WebDriver.dll
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\WebDriver.Support.dll
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\Selenium.WebDriverBackedSelenium.pdb
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\ThoughtWorks.Selenium.Core.pdb
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\ThoughtWorks.Selenium.Core.xml
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\WebDriver.pdb
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\WebDriver.xml
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\WebDriver.Support.pdb
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator.Tests\bin\Debug\WebDriver.Support.xml

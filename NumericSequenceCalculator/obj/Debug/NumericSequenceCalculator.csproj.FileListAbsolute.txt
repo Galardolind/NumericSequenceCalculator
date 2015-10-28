@@ -41,6 +41,6 @@ D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator\bin\N
 D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator\bin\System.Net.Http.Formatting.xml
 D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator\bin\System.Web.Http.xml
 D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator\bin\System.Web.Http.WebHost.xml
-D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator\obj\Debug\NumericSequenceCalculator.csprojResolveAssemblyReference.cache
 D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator\obj\Debug\NumericSequenceCalculator.dll
 D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator\obj\Debug\NumericSequenceCalculator.pdb
+D:\VisualStudioProject\NumericSequenceCalculator\NumericSequenceCalculator\obj\Debug\NumericSequenceCalculator.csprojResolveAssemblyReference.cache
