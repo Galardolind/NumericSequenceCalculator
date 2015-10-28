@@ -25,7 +25,10 @@ To Run the UI tests, you need to deploy the application. To do the UI tests I ha
 1. Open the project
 2. Click on Build (The top menu) → Publish NumericSequenceCalculator
 3. Do the configuration to make it work with your own IIS (If you are not familiar with it follow [this tutorial](https://msdn.microsoft.com/en-us/library/dd465337%28v=vs.110%29)
-4. Once your web server is ready to work you just need to run All the test ( Ctrl+R, A )
+4. Open the UI directory inside the 'NumericSequenceCalculator.Test' project → open the 'UnitTest1.cs' file
+5. Modify the 'SITE_PATH' variable on line 16 to adapt with your server link
+6. Rebuild the project → Verify if your web server is correctly launched
+7. Run All the test ( Ctrl+R, A )
  
 
 
