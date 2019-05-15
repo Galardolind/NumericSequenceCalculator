@@ -8,7 +8,7 @@ C#, .Net, MVC, REST API, AngularJS, Bootstrap, Selenium.
 
 ##How to run
 
-To simplify the process, I have upload the whole visual studio project to the gitHub repository.(The process to deploy is explained on UI Test part)
+To simplify the process, I uploaded the whole visual studio project to the gitHub repository.(The process to deploy is explained on UI Test part)
 
 1. Download the project (clone via gitHub) or direct download [link](https://github.com/Galardolind/NumericSequenceCalculator/archive/master.zip)
 2. Proceed as following
@@ -20,11 +20,11 @@ To simplify the process, I have upload the whole visual studio project to the gi
 
 ##UI tests  && Unit Tests
 
-To Run the UI tests, you need to deploy the application. To do the UI tests I have used the IIS and Selenium.
+To Run the UI tests, you need to deploy the application. To do the UI tests I used IIS and Selenium.
 
 1. Open the project
 2. Click on Build (The top menu) → Publish NumericSequenceCalculator
-3. Do the configuration to make it work with your own IIS (If you are not familiar with it follow [this tutorial](https://msdn.microsoft.com/en-us/library/dd465337%28v=vs.110%29)
+3. Setup with your own IIS (If you are not familiar with it follow [this tutorial](https://msdn.microsoft.com/en-us/library/dd465337%28v=vs.110%29)
 4. Open the UI directory inside the 'NumericSequenceCalculator.Test' project → open the 'UnitTest1.cs' file
 5. Modify the 'SITE_PATH' variable on line 16 to adapt with your server link
 6. Rebuild the project → Verify if your web server is correctly launched
